@@ -1,0 +1,28 @@
+
+.text {
+    font-family: 'Lucida Console', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium
+}
+
+#headline1 {
+    font-size: large;
+    color: #0091ff;
+}
+
+#headline2 {
+    font-size: large;
+    background-color: #0091ff;
+    color: #ffffff;
+}
+
+#link:hover {
+    background-color: #ff4e37
+}
+
+#link:link{
+    color: #0091ff
+}
+
+#link:visited{
+    color: #ccff66
+}
